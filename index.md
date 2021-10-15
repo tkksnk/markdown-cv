@@ -12,7 +12,7 @@ title: Takeki Sunakawa's CV
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
 <br/> -->
-Assitant Professor, Graduate School of Economics, Hitotsubashi University
+Assistant Professor, Graduate School of Economics, Hitotsubashi University
 <br/>
 2-1 Naka, Kunitachi, Tokyo 186-8601, Japan
 <br/>
