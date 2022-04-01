@@ -20,14 +20,17 @@ Assistant Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: October 15, 2021.
+Last Updated: April 1, 2022.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
 
 ## Employment
 
-`2020-`
+`2020-2022`
+__Hitotsubashi University__, Graduate School of Economics, Associate Professor (with tenure)
+
+`2020-2022`
 __Hitotsubashi University__, Graduate School of Economics, Assistant Professor
 
 `2016-2020`
@@ -118,7 +121,9 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2021` Japanese Economic Association Spring Meeting (Virtual, _invited_), Annual SAET Conference (Virtual), International Conference on Computational and Financial Econometrics (Virtual, scheduled)
+`2022` International Conference on Econometrics and Statistics (Kyoto, scheduled)
+
+`2021` Japanese Economic Association Spring Meeting (Virtual, _invited_), Annual SAET Conference (Virtual), International Conference on Computational and Financial Econometrics (Virtual)
 
 `2019` Midwest Macroeconomics Meetings (Athens), International Conference on Computing in Economics and Finance (Ottawa), Workshop of the Australian Macroeconomics Society (Hobart)
 
