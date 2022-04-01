@@ -27,7 +27,7 @@ Last Updated: April 1, 2022.
 
 ## Employment
 
-`2020-2022`
+`2022-`
 __Hitotsubashi University__, Graduate School of Economics, Associate Professor (with tenure)
 
 `2020-2022`
