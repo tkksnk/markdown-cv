@@ -84,7 +84,7 @@ __The University of Tokyo__, BA International Relations
 
 Credible Forward Guidance. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Revision requested from ***Journal of Economic Dynamics and Control***. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
 
-[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) April 2022. Revision requested from ***Quantitative Economics***.
+[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) January 2023. Revision requested from ***Quantitative Economics***.
 
 Speed Limit Policy and Liquidity Traps. (joint with [Sebastian Schmidt](https://sites.google.com/site/econschmidt/){:target="_blank"}, [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"} and Paul Yoo) October 2021. Revision requested from ***Journal of Money, Credit, and Banking***.
 
