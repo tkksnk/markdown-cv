@@ -12,7 +12,7 @@ title: Takeki Sunakawa's CV
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
 <br/> -->
-Assistant Professor, Graduate School of Economics, Hitotsubashi University
+Associate Professor, Graduate School of Economics, Hitotsubashi University
 <br/>
 2-1 Naka, Kunitachi, Tokyo 186-8601, Japan
 <br/>
@@ -20,7 +20,7 @@ Assistant Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: April 1, 2022.
+Last Updated: May 23, 2023.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -55,7 +55,7 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
-[The Natural Rate of Interest in a Nonlinear DSGE Model](/files/NaturalRateNonlinear25.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, Accepted, September 2021. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
+[The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.ijcb.org/journal/ijcb23q1a6.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, 19(1), 301-339, March 2023. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
 [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](https://doi.org/10.1016/j.econlet.2021.109940){:target="_blank"}. (joint with Masakazu Emoto) ***Economics Letters***, 206, 109940, September 2021.
 
@@ -82,17 +82,17 @@ __The University of Tokyo__, BA International Relations
 
 ## Working Papers
 
+Credible Forward Guidance. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Revision requested from ***Journal of Economic Dynamics and Control***. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
+
+[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) April 2022. Revision requested from ***Quantitative Economics***.
+
 Speed Limit Policy and Liquidity Traps. (joint with [Sebastian Schmidt](https://sites.google.com/site/econschmidt/){:target="_blank"}, [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"} and Paul Yoo) October 2021. Revision requested from ***Journal of Money, Credit, and Banking***.
-
-Credible Forward Guidance. (joint with [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) October 2021. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
-
-[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) April 2021. Revision requested from ***Quantitative Economics***.
 
 Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. Reject and resubmit at ***Journal of Monetary Economics***.
 
 Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
-[Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019.
+<!-- [Applying Precomputation of Integrals to Nonlinear DSGE Models with Occasionally Binding Constraints](/files/method012419.pdf){:target="_blank"}. January 2019. -->
 
 [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
 
@@ -121,7 +121,9 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2022` International Conference on Econometrics and Statistics (Kyoto, scheduled)
+`2023` Japanese Economic Association Spring Meeting (Virtual, scheduled)
+
+`2022` International Conference on Econometrics and Statistics (Kyoto), Japan Society of Monetary Economics Fall Meeting (Virtual) 
 
 `2021` Japanese Economic Association Spring Meeting (Virtual, _invited_), Annual SAET Conference (Virtual), International Conference on Computational and Financial Econometrics (Virtual)
 
@@ -183,7 +185,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ### Referee for
 
-_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x3); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_ (x2); _Journal of Macroeconomics_ (x2); _Journal of Money, Credit and Banking_ (x2); _Macroeconomic Dynamics_; _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_.
+_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x4); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_ (x2); _Journal of Macroeconomics_ (x2); _Journal of Money, Credit and Banking_ (x2); _Macroeconomic Dynamics_ (x2); _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_.
 
 ### Organizing international workshops
 
@@ -193,9 +195,15 @@ _Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Ja
 
 ### Others
 
+TCER fellow. UTEcon Advisor.
+
 External Examiner of Ph.D. Thesis, Research School of Economics, Australian National University.
 
 ## Teaching
+
+`2022-` Undergraduate Seminar (for junior and senior), Graduate Seminar (for M.A. and Ph.D.)
+
+`2022-` Intermediate Macroeconomics (graduate), Hitotsubashi University
 
 `2020` Advanced Macroeconomics (Ph.D. core, graduate), Hitotsubashi University
 
