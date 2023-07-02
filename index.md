@@ -121,7 +121,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2023` Japanese Economic Association Spring Meeting (Virtual, scheduled)
+`2023` Japanese Economic Association Spring Meeting (Virtual), Sogang Macro Workshop (Seoul)
 
 `2022` International Conference on Econometrics and Statistics (Kyoto), Japan Society of Monetary Economics Fall Meeting (Virtual) 
 
