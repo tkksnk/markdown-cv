@@ -55,6 +55,10 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
+[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_2023_0328.pdf). (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Accepted by ***Journal of Economic Dynamics and Control***.  The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.
+
+[Tax-and-Transfer Progressivity and Business Cycles](https://tkksnk.github.io/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) June 2023. Accepted by ***Quantitative Economics***.
+
 [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.ijcb.org/journal/ijcb23q1a6.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, 19(1), 301-339, March 2023. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
 [Applying the Explicit Aggregation Algorithm to Heterogeneous Agent Models in Continuous Time](https://doi.org/10.1016/j.econlet.2021.109940){:target="_blank"}. (joint with Masakazu Emoto) ***Economics Letters***, 206, 109940, September 2021.
@@ -81,10 +85,6 @@ __The University of Tokyo__, BA International Relations
 {: reversed="reversed"}
 
 ## Working Papers
-
-Credible Forward Guidance. (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Revision requested from ***Journal of Economic Dynamics and Control***. [The previous version](https://www.federalreserve.gov/econres/feds/files/2019037pap.pdf){:target="_blank"} is available as FEDS Working Paper 2019-037.
-
-[Heterogeneity, Transfer Progressivity and Business Cycles](https://drive.google.com/file/d/1GSo0MxES9rW6qbe-lOUVk12RJhWQm28p/view){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) January 2023. Revision requested from ***Quantitative Economics***.
 
 Speed Limit Policy and Liquidity Traps. (joint with [Sebastian Schmidt](https://sites.google.com/site/econschmidt/){:target="_blank"}, [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"} and Paul Yoo) October 2021. Revision requested from ***Journal of Money, Credit, and Banking***.
 
