@@ -20,7 +20,7 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: May 23, 2023.
+Last Updated: July 2, 2023.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -55,7 +55,7 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
-[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_2023_0328.pdf). (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Accepted by ***Journal of Economic Dynamics and Control***.  The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.
+[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_2023_0328.pdf). (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Accepted by ***Journal of Economic Dynamics and Control***.  <!--The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.-->
 
 [Tax-and-Transfer Progressivity and Business Cycles](https://tkksnk.github.io/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) June 2023. Accepted by ***Quantitative Economics***.
 
