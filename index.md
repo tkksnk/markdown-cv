@@ -20,7 +20,7 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: July 2, 2023.
+Last Updated: September 4, 2024.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -55,9 +55,11 @@ __The University of Tokyo__, BA International Relations
 
 ## Publications
 
-[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_2023_0328.pdf). (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) April 2023.  Accepted by ***Journal of Economic Dynamics and Control***.  <!--The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.-->
+[A Measure of Monthly State-level Output in Japan](/files/FNS_20240409.pdf){:target="_blank"}. (joint with [Daisuke Fujii](https://sites.google.com/site/fujii0622/home) and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"})) Conditionally accepted at ***Japanese Economic Review***, September 2024.
 
-[Tax-and-Transfer Progressivity and Business Cycles](https://tkksnk.github.io/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) June 2023. Accepted by ***Quantitative Economics***.
+[Tax-and-Transfer Progressivity and Business Cycles](https://tkksnk.github.io/files/HAT_Revised_June2023.pdf){:target="_blank"}. (joint with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/){:target="_blank"} and [Minchul Yum](https://sites.google.com/site/minchulyum/research){:target="_blank"}) ***Quantitative Economics***, 14(4), 1367-1400, November 2023.
+
+[Credible Forward Guidance](https://tkksnk.github.io/files/CFG_2023_0328.pdf). (joint with Quentin Batista and [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"}) ***Journal of Economic Dynamics and Control***, 153, 104699, August 2023.<!--The previous version including the analysis with the static Phillips curve is available [here](/files/CFG_220410.pdf){:target="_blank"}.-->
 
 [The Natural Rate of Interest in a Nonlinear DSGE Model](https://www.ijcb.org/journal/ijcb23q1a6.pdf){:target="_blank"}. (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) ***International Journal of Central Banking***, 19(1), 301-339, March 2023. <!--The previous version is available as CAMA Working Paper Series 38/2017.-->
 
@@ -86,9 +88,11 @@ __The University of Tokyo__, BA International Relations
 
 ## Working Papers
 
+[COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
+
 Speed Limit Policy and Liquidity Traps. (joint with [Sebastian Schmidt](https://sites.google.com/site/econschmidt/){:target="_blank"}, [Taisuke Nakata](https://sites.google.com/site/taisukenakata/){:target="_blank"} and Paul Yoo) October 2021. Revision requested from ***Journal of Money, Credit, and Banking***.
 
-Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. Reject and resubmit at ***Journal of Monetary Economics***.
+<!-- Forward Guidance as a Monetary Policy Rule. (joint with [Mitsuru Katagiri](https://sites.google.com/site/mitsurukatagiri/){:target="_blank"}) June 2019. Reject and resubmit at ***Journal of Monetary Economics***. -->
 
 Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with [Yasuo Hirose](https://sites.google.com/site/yasuohirose/){:target="_blank"}) CAMA Working Paper Series 46/2015, November 2015.
 
@@ -96,7 +100,21 @@ Parameter Bias in an Estimated DSGE Model: Does Nonlinearity Matter? (joint with
 
 [Sustainable Pricing in a Durable Goods Monopoly](/files/NASM2013-492.pdf){:target="_blank"}. May 2012.
 
+## Work in Progress
+
+Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks. 
+
+The Optimal Quantity of CBDC in Japan. (joint with Junko Ishikawa and Meylis Orazov)
+
+Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
+
+A Business Cycle Assessment of Joint Taxation of Married Couples (joint with [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
+
+Conditional Equivalence of Inversion filter and Kalman filter in Estimating DSGE Models (joint with Elnura Baiaman kyzy and Hiroyuki Kubota)
+
 ## Invited Seminars
+
+`2024` University of Queensland, Australian National University
 
 `2020` University of Tokyo, Hosei University, Osaka University (x2)
 
@@ -121,7 +139,9 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2023` Japanese Economic Association Spring Meeting (Virtual), Sogang Macro Workshop (Seoul)
+`2024` International Conference on Computing in Economics and Finance (Singapore), Asian Meeting of the Econometric Society (Ho Chi Minh City), Summer Workshop on Economic Theory (Sapporo), Japanese Economic Association Fall Meeting (Fukuoka, scheduled)
+
+`2023` Japanese Economic Association Spring Meeting (Virtual), Sogang Macro Workshop (Seoul), The Annual Dynare Conference (Malta)
 
 `2022` International Conference on Econometrics and Statistics (Kyoto), Japan Society of Monetary Economics Fall Meeting (Virtual) 
 
@@ -155,11 +175,15 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 <!-- NOTE: Are Japanese grants in fiscal years? -->
 
-`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 21K01480 (Principle Investigator). “_Normative and Positive Analysis of Forward Guidance by Central Banks_.”
+`2024-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (C), Project Number 24K04856 (Principle Investigator). “_On the effect of monetary and fiscal policies on households' labor market participation_.”
 
-`2021-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_Macroeconomic Analysis in the Era of Yield Curve Control_.” (Principle Investigator: Etsuro Shioji)
+`2023-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Fostering Joint International Research, Project Number 23KK0223 (Principle Investigator). “_On the effect of monetary and fiscal policies on households' labor market participation_.”
 
-`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number TBA (Co-Investigator). “_The Interaction between Fiscal and Monetary Policies_.” (Principle Investigator: Toshitaka Sekine)
+`2021-2024` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (C), Project Number 21K01480 (Principle Investigator). “_Normative and Positive Analysis of Forward Guidance by Central Banks_.”
+
+`2021-2025` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number 21H00704 (Co-Investigator). “_Macroeconomic Analysis in the Era of Yield Curve Control_.” (Principle Investigator: Etsuro Shioji)
+
+`2021-2023` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (B), Project Number 21H00705 (Co-Investigator). “_The Interaction between Fiscal and Monetary Policies_.” (Principle Investigator: Toshitaka Sekine)
 
 `2018-2022` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
 
@@ -200,28 +224,29 @@ TCER fellow. UTEcon Advisor.
 External Examiner of Ph.D. Thesis, Research School of Economics, Australian National University.
 
 ## Teaching
+Note: Classes are taught in Japanese otherwise indicated.
 
 `2022-` Undergraduate Seminar (for junior and senior), Graduate Seminar (for M.A. and Ph.D.)
 
 `2022-` Intermediate Macroeconomics (graduate), Hitotsubashi University
 
-`2020` Advanced Macroeconomics (Ph.D. core, graduate), Hitotsubashi University
+`2020` Advanced Macroeconomics (Ph.D. core, graduate), Hitotsubashi University (in English)
 
-`2020-` Special Topics in Macroeconomics A, B (graduate), Hitotsubashi University (in Japanese)
+`2020-` Special Topics in Macroeconomics A, B (graduate), Hitotsubashi University (in English)
 
-`2020-` Macroeconomics I, II (undergraduate), Hitotsubashi University (in Japanese)
+`2020-` Macroeconomics I, II (undergraduate), Hitotsubashi University
 
-`2018` Quantitative Methods for Monetary Economics (graduate), University of Mannheim
+`2018` Quantitative Methods for Monetary Economics (graduate), University of Mannheim (in English)
 
-`2017-2019` Quantitative Methods for Monetary Economics (graduate), Kobe University
+`2017-2019` Quantitative Methods for Monetary Economics (graduate), Kobe University (in English)
 
-`2017-2019` International Finance (undergraduate), Kobe University (in Japanese)
+`2017-2019` International Finance (undergraduate), Kobe University
 
-`2015-2017` Macroeconomics for Public Policy, Graduate School of Public Policy, The University of Tokyo
+`2015-2017` Macroeconomics for Public Policy, Graduate School of Public Policy, The University of Tokyo (in English)
 
-`2015-2017` Principles of Macroeconomics, Graduate School of Public Policy, The University of Tokyo
+`2015-2017` Principles of Macroeconomics, Graduate School of Public Policy, The University of Tokyo (in English)
 
-`2015` Advanced Macroeconomics, Tohoku University (in Japanese)
+`2015` Advanced Macroeconomics, Tohoku University
 
 <!-- ## Language and other skills
 
