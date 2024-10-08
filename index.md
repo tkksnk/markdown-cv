@@ -20,10 +20,14 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: September 4, 2024.
+Last Updated: October 8, 2024.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
+
+## Summary
+
+I am currently an associate professor at the Graduate School of Economics, Hitotsubashi University. Before moving to academia, I spent about 10 years at the Bank of Japan as an economist in the Research and Statistics Department, the International Department, and the Institute for Monetary and Economic Studies. I received a Ph.D. in Economics at the Ohio State University. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics.
 
 ## Employment
 
