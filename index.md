@@ -46,6 +46,12 @@ __The University of Tokyo__, Graduate School of Public Policy, Project Assistant
 `2005-2014`
 __Bank of Japan__, Economist
 
+`2023-`
+__Bank of Japan__, Institute of Monetary and Economic Studies, Part-time Researcher
+
+`2024-`
+__The University of Tokyo__, Graduate School of Economics, Specially Appointed Researcher
+
 ## Education
 
 `2012`
