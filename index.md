@@ -20,14 +20,14 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: October 8, 2024.
+Last Updated: October 23, 2024.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
 
-## Summary
+<!-- ## Summary
 
-I am currently an associate professor at the Graduate School of Economics, Hitotsubashi University. Before moving to academia, I spent about 10 years at the Bank of Japan as an economist in the Research and Statistics Department, the International Department, and the Institute for Monetary and Economic Studies. I received a Ph.D. in Economics at the Ohio State University. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics.
+I am currently an associate professor at the Graduate School of Economics, Hitotsubashi University. Before moving to academia, I spent about 10 years at the Bank of Japan as an economist in the Research and Statistics Department, the International Department, and the Institute for Monetary and Economic Studies. I received a Ph.D. in Economics at the Ohio State University. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics. -->
 
 ## Employment
 
@@ -149,7 +149,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2024` International Conference on Computing in Economics and Finance (Singapore), Asian Meeting of the Econometric Society (Ho Chi Minh City), Summer Workshop on Economic Theory (Sapporo), Japanese Economic Association Fall Meeting (Fukuoka, scheduled)
+`2024` International Conference on Computing in Economics and Finance (Singapore), Asian Meeting of the Econometric Society (Ho Chi Minh City), Summer Workshop on Economic Theory (Sapporo), Japanese Economic Association Fall Meeting (Fukuoka)
 
 `2023` Japanese Economic Association Spring Meeting (Virtual), Sogang Macro Workshop (Seoul), The Annual Dynare Conference (Malta)
 
