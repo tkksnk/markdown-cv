@@ -20,7 +20,7 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: October 23, 2024.
+Last Updated: January 24, 2025.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -96,7 +96,9 @@ __The University of Tokyo__, BA International Relations
 [Efficiency in a Search and Matching Model with Right-to-Manage Bargaining](https://doi.org/10.1016/j.econlet.2011.12.072){:target="_blank"}. ***Economics Letters***, 117(3), 679-682, December 2012.
 {: reversed="reversed"}
 
-## Working Papers
+## Working Papers (in English only)
+
+On the Interaction between Monetary and Fiscal Policy: Developments in Macroeconomics since the Global Financial Crisis. (joint with Mitsuru Katagiri, Yusuke Oh, Yasutaka Ogawa, and Nao Sudo) Bank of Japan IMES Discussion Paper Series 2024-E-12, October 2024.
 
 [COVID-19 and Suicide in Japan](https://drive.google.com/file/d/1JZ1UbFPN16eEmt5VBD3jUJtkp8-pZVlu/view){:target="_blank"}. (joint with Quentin Batista, Daisuke Fujii, and Taisuke Nakata) June 2022.
 
@@ -116,7 +118,7 @@ Fiscal Inflation in Japan: The Role of Unfunded Fiscal Shocks.
 
 The Optimal Quantity of CBDC in Japan. (joint with Junko Ishikawa and Meylis Orazov)
 
-Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"})
+<!-- Monetary Policy and Labor Market Participation. (joint with [Kazuhiro Teramoto](https://sites.google.com/view/kazuhiroteramoto/home){:target="_blank"} and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/){:target="_blank"}) -->
 
 A Business Cycle Assessment of Joint Taxation of Married Couples (joint with [Minchul Yum](https://minchulyum.github.io/){:target="_blank"})
 
@@ -184,7 +186,6 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 ## Grants
 
 <!-- NOTE: Are Japanese grants in fiscal years? -->
-
 `2024-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Scientific Research (C), Project Number 24K04856 (Principle Investigator). “_On the effect of monetary and fiscal policies on households' labor market participation_.”
 
 `2023-2026` Grant-in-Aid for Scientific Research (KAKENHI) for Fostering Joint International Research, Project Number 23KK0223 (Principle Investigator). “_On the effect of monetary and fiscal policies on households' labor market participation_.”
@@ -198,6 +199,8 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 `2018-2022` Grant-in-Aid for Scientific Research (KAKENHI) for Young Scientists, Project Number 18K12743 (Principle Investigator). “_Solution and estimation methods on nonlinear DSGE models_.”
 
 `2016-2017` Leading Initiative for Excellent Young Researchers (LEADER). ___Distinguished scholar under 40 selected and funded by Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japanese Government___.
+
+`2025` Nomura Foundation Grant-in-Aid.
 
 `2016` Nomura Foundation Grant-in-Aid.
 
