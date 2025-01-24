@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Takeki Sunakawa's CV
+title: Takeki Sunakawa
 ---
 # Takeki Sunakawa
 
