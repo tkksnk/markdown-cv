@@ -20,7 +20,7 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: January 24, 2025.
+Last Updated: March 27, 2025.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
@@ -150,6 +150,8 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 `2011` The Canon Institute for Global Studies, Kansai University, Bank of England
 
 ## Conference Presentations
+
+`2025` Japan Society of Monetary Economics Spring Meeting (Scheduled) 
 
 `2024` International Conference on Computing in Economics and Finance (Singapore), Asian Meeting of the Econometric Society (Ho Chi Minh City), Summer Workshop on Economic Theory (Sapporo), Japanese Economic Association Fall Meeting (Fukuoka)
 
