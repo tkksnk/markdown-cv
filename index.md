@@ -46,7 +46,7 @@ __The University of Tokyo__, Graduate School of Public Policy, Project Assistant
 `2005-2014`
 __Bank of Japan__, Economist
 
-`2023-`
+`2023-2025`
 __Bank of Japan__, Institute of Monetary and Economic Studies, Part-time Researcher
 
 `2024-`
@@ -151,7 +151,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ## Conference Presentations
 
-`2025` Japan Society of Monetary Economics Spring Meeting (Scheduled) 
+`2025` Japan Society of Monetary Economics Spring Meeting (Tokyo, scheduled) 
 
 `2024` International Conference on Computing in Economics and Finance (Singapore), Asian Meeting of the Econometric Society (Ho Chi Minh City), Summer Workshop on Economic Theory (Sapporo), Japanese Economic Association Fall Meeting (Fukuoka)
 
