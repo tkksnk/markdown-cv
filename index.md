@@ -12,7 +12,7 @@ title: Takeki Sunakawa
 |
 <i class="fa fa-github"></i> <a href="http://github.com/tkksnk">tkksnk</a>
 <br/> -->
-Associate Professor, Graduate School of Economics, Hitotsubashi University
+Professor, Graduate School of Economics, Hitotsubashi University
 <br/>
 2-1 Naka, Kunitachi, Tokyo 186-8601, Japan
 <br/>
@@ -20,19 +20,22 @@ Associate Professor, Graduate School of Economics, Hitotsubashi University
 |
 <a href="https://tkksnk.github.io">https://tkksnk.github.io</a>
 <br/>
-Last Updated: March 27, 2025.
+Last Updated: April 21, 2025.
 <!-- |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/tkksnk">tkksnk</a> -->
 </div>
 
 <!-- ## Summary
 
-I am currently an associate professor at the Graduate School of Economics, Hitotsubashi University. Before moving to academia, I spent about 10 years at the Bank of Japan as an economist in the Research and Statistics Department, the International Department, and the Institute for Monetary and Economic Studies. I received a Ph.D. in Economics at the Ohio State University. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics. -->
+I am currently a professor at the Graduate School of Economics, Hitotsubashi University. Before moving to academia, I spent about 10 years at the Bank of Japan as an economist in the Research and Statistics Department, the International Department, and the Institute for Monetary and Economic Studies. I received a Ph.D. in Economics at the Ohio State University. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics. -->
 
 ## Employment
 
-`2022-`
-__Hitotsubashi University__, Graduate School of Economics, Associate Professor (with tenure)
+`2025-`
+__Hitotsubashi University__, Graduate School of Economics, Professor
+
+`2022-2025`
+__Hitotsubashi University__, Graduate School of Economics, Associate Professor
 
 `2020-2022`
 __Hitotsubashi University__, Graduate School of Economics, Assistant Professor
@@ -49,7 +52,7 @@ __Bank of Japan__, Economist
 `2023-2025`
 __Bank of Japan__, Institute of Monetary and Economic Studies, Part-time Researcher
 
-`2024-`
+`2024-2025`
 __The University of Tokyo__, Graduate School of Economics, Specially Appointed Researcher
 
 ## Education
