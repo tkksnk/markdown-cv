@@ -29,10 +29,12 @@ Last Updated: April 21, 2025.
 
 I am currently a professor at the Graduate School of Economics, Hitotsubashi University. Before moving to academia, I spent about 10 years at the Bank of Japan as an economist in the Research and Statistics Department, the International Department, and the Institute for Monetary and Economic Studies. I received a Ph.D. in Economics at the Ohio State University. My research interests are in Macroeconomics, Monetary Policy, and Computational Economics. -->
 
-## Employment
+## Current Employment
 
 `2025-`
 __Hitotsubashi University__, Graduate School of Economics, Professor
+
+## Past Employment and Visiting Positions
 
 `2022-2025`
 __Hitotsubashi University__, Graduate School of Economics, Associate Professor
@@ -49,11 +51,21 @@ __The University of Tokyo__, Graduate School of Public Policy, Project Assistant
 `2005-2014`
 __Bank of Japan__, Economist
 
-`2023-2025`
-__Bank of Japan__, Institute of Monetary and Economic Studies, Part-time Researcher
+`2025`
+__The Australian National University__, Research School of Economics, Visiting Researcher
 
 `2024-2025`
 __The University of Tokyo__, Graduate School of Economics, Specially Appointed Researcher
+
+`2023-2025`
+__Bank of Japan__, Institute of Monetary and Economic Studies, Part-time Researcher
+
+`2018`
+__The University of Mannheim__, Department of Economics, Visiting Researcher
+
+`2016-17`
+__The Ecole des Hautes Etudes en Sciences Sociales__, France-Japan Foundation, Visiting Researcher
+
 
 ## Education
 
@@ -227,7 +239,7 @@ Queen Mary University of London, European Central Bank, Federal Reserve Board, F
 
 ### Referee for
 
-_Economic Inquiry_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Journal of Economic Dynamics and Control_ (x4); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_ (x2); _Journal of Macroeconomics_ (x2); _Journal of Money, Credit and Banking_ (x2); _Macroeconomic Dynamics_ (x2); _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_.
+_Economic Inquiry_; _European Economic Review_; _German Economic Review_; _Japan and the World Economy_; _Japanese Economic Review_; _Japanese Journal of Monetary and Financial Economics_; _Journal of Economic Dynamics and Control_ (x4); _Journal of International Money and Finance_; _Journal of Japanese and International Economies_ (x2); _Journal of Macroeconomics_ (x2); _Journal of Money, Credit and Banking_ (x2); _Macroeconomic Dynamics_ (x2); _Oxford Bulletin of Economics and Statistics_; _Singapore Economic Review_.
 
 ### Organizing international workshops
 
